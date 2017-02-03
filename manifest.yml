@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: roboiotclass-ken
+  host: roboiotclass-ken
+  disk_quota: 1024M
+  services:
+  - bootcamp-ismaeel-messagehub
+  - roboiotclass-ken-cloudantNoSQLDB
+  - roboiotclass-ken-iotf-service

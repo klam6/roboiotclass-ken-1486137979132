@@ -19,7 +19,7 @@
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
         "node-red-contrib-admin":"0.x",
-        "node-red-node-tmf-api-beta":"1.x"
+        "node-red-node-tmf-api-beta":"0.1.x"
 
     },
     "scripts": {
